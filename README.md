@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/E-Asem/stats-preview-card-component-main](https://github.com/E-Asem/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://e-asem.github.io/stats-preview-card-component-main/](https://e-asem.github.io/stats-preview-card-component-main/)
 
 ## My process
 
